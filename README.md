@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo1](https://github.com/user-attachments/assets/9e63cf39-9d21-4ae0-b304-721760f728a4)
+![logo1](https://github.com/user-attachments/assets/1e8d9365-e38c-49c5-a4fe-7df09e2dbb6c)
 
 Soy un ingeniero de software apasionado por aprender nuevas tecnologías, convirtiendo lo dificil a facil solo para mis clientes.
 
