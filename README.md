@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![logo1](https://github.com/user-attachments/assets/c214cb86-e56a-417e-8b15-006c09c33113)
 
 Soy un ingeniero de software apasionado por aprender nuevas tecnologías, convirtiendo lo dificil a facil solo para mis clientes.
 
